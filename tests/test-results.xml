@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0060" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-12T01:30:48" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Casos" timestamp="2021-11-12T01:30:48" tests="0" file="C:\Users\alan1\Desktop\Cuatri 10\Gestion de proceso de desarrollo de software\DMI\tests\test.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Prueba de Login" timestamp="2021-11-12T01:30:48" tests="5" file="C:\Users\alan1\Desktop\Cuatri 10\Gestion de proceso de desarrollo de software\DMI\tests\test.js" time="0.0040" failures="0">
+    <testcase name="Casos Prueba de Login Usuario" time="0.0000" classname="Usuario">
+    </testcase>
+    <testcase name="Casos Prueba de Login Contraseña" time="0.0000" classname="Contraseña">
+    </testcase>
+    <testcase name="Casos Prueba de Login Registro" time="0.0000" classname="Registro">
+    </testcase>
+    <testcase name="Casos Prueba de Login Registro sin datos" time="0.0000" classname="Registro sin datos">
+    </testcase>
+    <testcase name="Casos Prueba de Login Error" time="0.0000" classname="Error">
+    </testcase>
+  </testsuite>
+</testsuites>
